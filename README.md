@@ -1,0 +1,1 @@
+This repository contains the train of an agent through the reinforcement learning on the taxi environment of gymnasium.
